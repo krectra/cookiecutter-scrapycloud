@@ -1,4 +1,4 @@
-FROM scrapinghub/scrapinghub-stack-scrapy:1.2-py3
+FROM scrapinghub/scrapinghub-stack-scrapy:2.0-latest
 
 WORKDIR /app
 ADD . /app
