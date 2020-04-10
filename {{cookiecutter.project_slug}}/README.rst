@@ -7,8 +7,8 @@ This is a base Scrapy project suited to run on Scrapinghub platform.
 Features
 --------
 
-* Python 3.5
-* Scrapy 1.2
+* Python 3.8
+* Scrapy 2.0.1
 
 Credits
 ---------
