@@ -18,7 +18,7 @@ Usage
 
 1. Install ``cookiecutter`` if you do not have it already: ``pip install cookiecutter``
 
-2. Generate a new project: ``cookiecutter gh:rolando/cookiecutter-scrapycloud``
+2. Generate a new project: ``cookiecutter gh:krectra/cookiecutter-scrapycloud``
 
 Example
 -------
